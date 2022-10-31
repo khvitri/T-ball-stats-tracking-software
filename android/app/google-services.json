@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311823935785",
+    "project_id": "cs-t-ball-program",
+    "storage_bucket": "cs-t-ball-program.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311823935785:android:bfb384c306f20e3de7ef38",
+        "android_client_info": {
+          "package_name": "com.tball.cstballprogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311823935785-pf956trpcjc37in18l4itmgujo1s5aov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXj6W6XNSG1nLjHfUeyaLLSNDe7s--njU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311823935785-pf956trpcjc37in18l4itmgujo1s5aov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
